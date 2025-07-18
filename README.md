@@ -17,5 +17,4 @@ This is a conversational app that converts natural language questions into SQL q
 4. LLaMA3 explains the result clearly.
 5. User can ask another question, continuing the loop.
 
-## 🧪 Environment Variables
-Create a `.env` file with:
+
