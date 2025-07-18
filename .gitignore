@@ -1,0 +1,20 @@
+ 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtualenv
+env/
+venv/
+.venv/
+
+# Secrets
+.env
+
+# Streamlit cache
+.streamlit/
+
+# OS & IDE
+.DS_Store
+.vscode/
